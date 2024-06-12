@@ -26,12 +26,8 @@ const DialogEstilizado = styled.dialog`
             top: 20x;
             right: 60px;
         }
-
      }
-    
-    
 `
-
 
 const ModalZoom = ({ foto, aoFechar }) => {
     return (
