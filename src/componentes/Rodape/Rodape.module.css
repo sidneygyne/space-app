@@ -1,0 +1,32 @@
+
+
+@media (max-width: 767px) {
+    .rodape {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    .texto {
+        font-size: 0.8rem;
+    }
+    .icone {
+        color: var(--banco);
+        font-size: 1.5rem;
+    }
+}
+
+
+@media (max-width: 400px) {
+    .rodape {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    .texto {
+        font-size: 0.6rem;
+    }
+    .icone {
+        color: var(--banco);
+        font-size: 1rem;
+    }
+}
